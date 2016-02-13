@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Users\\lenovo\\AndroidStudioProjects\\LinedTableFixeHeaders\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shadow_top.xml",
+        "source": "F:\\Users\\lenovo\\AndroidStudioProjects\\LinedTableFixeHeaders\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\shadow_top.xml"
+    },
+    {
+        "merged": "F:\\Users\\lenovo\\AndroidStudioProjects\\LinedTableFixeHeaders\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shadow_bottom.xml",
+        "source": "F:\\Users\\lenovo\\AndroidStudioProjects\\LinedTableFixeHeaders\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\shadow_bottom.xml"
+    },
+    {
+        "merged": "F:\\Users\\lenovo\\AndroidStudioProjects\\LinedTableFixeHeaders\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shadow_right.xml",
+        "source": "F:\\Users\\lenovo\\AndroidStudioProjects\\LinedTableFixeHeaders\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "F:\\Users\\lenovo\\AndroidStudioProjects\\LinedTableFixeHeaders\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shadow_left.xml",
+        "source": "F:\\Users\\lenovo\\AndroidStudioProjects\\LinedTableFixeHeaders\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\shadow_left.xml"
+    }
+]
